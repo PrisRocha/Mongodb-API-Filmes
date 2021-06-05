@@ -50,7 +50,7 @@ A partir do route params id, busca um filme para deletá-lo.
     "ano": Number,
     "sinopse": "String",
     "direcao": "String",
-    "atores": Array,
-    "genero": Array,
-    "idiomas": Array
+    "atores": "Array",
+    "genero": "Array",
+    "idiomas": "Array"
 }

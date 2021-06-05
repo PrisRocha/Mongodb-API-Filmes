@@ -45,12 +45,12 @@ A partir do route params id, busca um filme para deletá-lo.
 
 ### MODELO - JSON
 
-{
-    "titulo": "String",
-    "ano": Number,
-    "sinopse": "String",
-    "direcao": "String",
-    "atores": "Array",
-    "genero": "Array",
-    "idiomas": "Array"
-}
+   {
+        "titulo": "String",
+        "ano": Number,
+        "sinopse": "String",
+        "direcao": " String",
+        "atores": "Array",
+        "genero": "Array",
+        "idiomas": "Array"
+    }

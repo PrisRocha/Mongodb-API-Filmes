@@ -15,7 +15,7 @@ A partir do route params id, busca um filme para alterar uma informação espec�
 [DELETE] "/:id"	
 A partir do route params id, busca um filme para deletá-lo.
 
-## Schema
+# Schema
 
     . titulo
        . type
@@ -43,7 +43,7 @@ A partir do route params id, busca um filme para deletá-lo.
        . required
        . default
 
-### MODELO - JSON
+# MODELO - JSON
 
    {
         "titulo": "String",
